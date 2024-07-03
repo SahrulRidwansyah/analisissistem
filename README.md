@@ -6,7 +6,7 @@ Nim   : 312210063
 Kelas : TI.22.A2
 ```
 # Sistem Perpustakaan Digital
-klik disini-- [sistem perpustakaan online..pdf](https://github.com/user-attachments/files/16087308/sistem.perpustakaan.online.pdf)
+klik disini-- [sistem perpustakaan digital.pdf](https://github.com/user-attachments/files/16087337/sistem.perpustakaan.digital.pdf)
 
 
 # tugas vid
