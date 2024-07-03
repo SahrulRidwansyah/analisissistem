@@ -5,8 +5,8 @@ Nama  : Sahrul Ridwansyah
 Nim   : 312210063
 Kelas : TI.22.A2
 ```
-# Analisis Sistem Manajemen Gudang pada Perusahaan Distribusi
-klik disini-->[UTS analisis.pdf](https://github.com/SahrulRidwansyah/analisissistem/files/15333820/UTS.analisis.pdf)
+# Sistem Perpustakaan Digital
+klik disini--
 
 # tugas vid
 https://youtu.be/vbpq1K70-QM?si=9Xmb4OUA8_bixstD
